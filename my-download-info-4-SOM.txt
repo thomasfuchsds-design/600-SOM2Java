@@ -1,0 +1,5 @@
+# Download Information
+
+* Source ... : https://github.com/SOM-st/SOM
+* Version .. : Latest commit 62b5a97 on 5 Jul 2019
+  
